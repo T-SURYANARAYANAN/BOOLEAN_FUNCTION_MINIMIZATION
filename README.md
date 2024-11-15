@@ -14,11 +14,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 Hardware – PCs, Cyclone II , USB flasher
 
-### SOFTWARE - QUARTUS PRIME
-
-### THEORY :
-
-### LOGIC DIAGRAM :
+Software - Quartus prime
 
 ### PROCEDURE :
 
@@ -34,7 +30,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 ### PROGRAM :
-![Uploading WhatsApp Image 2024-11-14 at 21.03.15_f2633e4d.jpg…]()
+![WhatsApp Image 2024-11-14 at 21 03 15_08b81b6b](https://github.com/user-attachments/assets/c709d11f-3b19-4ee2-bec5-b8ee9db27d4f)
+
 
 
 ### RTL REALIZATION OUTPUT :
